@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Perks of the tool.',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Perks of the tool',
+    paragraph: 'Reading has so many perks in life'
   };
 
   return (
@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Simple to understand
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Research papers turned into 4-5 pages of easy to understand language.
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Covers all the essential information
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Summary and gist of all the important information you need from a research paper.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Easy to follow
+                  Includes business stratergies
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Includes all the information you need to implement the study of academic papers into your business.
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Includes business stratergies
+                     Easy to follow
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Easy to just search the field you want to read about and just read the summary of it. 
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     Easy to understand
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Written by professionals in easy language so that anyone can understand it.
                     </p>
                 </div>
               </div>
@@ -184,7 +184,7 @@ const FeaturesTiles = ({
                     Saves Time
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Reading this 10-15 mins of summary can save your so much time.
                     </p>
                 </div>
               </div>
